@@ -1,0 +1,6 @@
+{
+  "name": "Royal Place",
+  "description": "Luxury tropical hotel and sanctuary in Sri Lanka with elegant rooms, dining, wellness facilities, and instant booking experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
